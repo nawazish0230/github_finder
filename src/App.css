@@ -1,0 +1,8 @@
+.navbar-brand span{
+    color: grey !important;
+    margin-left: 5px;
+    font-size: 20px;
+}
+.navbar-brand i{
+    color: black !important;
+}
